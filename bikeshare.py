@@ -181,7 +181,7 @@ def ask_view(df):
         else:
             break;
 
-
+#Main function comment (refactoring)
 def main():
     while True:
         city, month, day = get_filters()
